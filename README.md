@@ -1,5 +1,5 @@
 ## Elections Management System
-Built an elections management system wi GUI using Java, JavaFX, OOP, MVC and Eclipse.
+Built an elections management system with GUI using Java, JavaFX, OOP, MVC and Eclipse.
 
 ## Screenshots
 <div align="center">
